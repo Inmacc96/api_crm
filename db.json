@@ -7,6 +7,14 @@
       "phone": "123456789",
       "notes": "",
       "id": 1
+    },
+    {
+      "customerName": "David",
+      "company": "BBB",
+      "email": "correo@correo.com",
+      "phone": "234567890",
+      "notes": "",
+      "id": 2
     }
   ]
 }
