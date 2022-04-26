@@ -1,0 +1,20 @@
+{
+  "customers": [
+    {
+      "customerName": "Carla ACTUALIZADO",
+      "company": "Ayesa",
+      "email": "correro@correo.com",
+      "phone": "1232442323",
+      "notes": "hola",
+      "id": 2
+    },
+    {
+      "customerName": "juan",
+      "company": "codigo con juan",
+      "email": "juan@juan.com",
+      "phone": "121323123",
+      "notes": "",
+      "id": 6
+    }
+  ]
+}
