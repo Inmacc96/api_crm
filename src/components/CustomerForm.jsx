@@ -48,7 +48,7 @@ const CustomerForm = ({ customer, loading }) => {
         });
       }
       await response.json();
-      navigate("/customers");
+      navigate("/");
     } catch (error) {
       console.log(error);
     }

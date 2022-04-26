@@ -10,9 +10,9 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-          <Route path="/customers" element={<Layout />}>
+          <Route path="/" element={<Layout />}>
             <Route index element={<Home />}/>
-            <Route path="new" element={<NewCustomer />}/>
+            <Route path="newCustomer" element={<NewCustomer />}/>
             <Route path="edit/:id" element={<EditCustomer />}/>
             <Route path=":id" element={<SeeCustomer />}/>
           </Route>
